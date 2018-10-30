@@ -33,7 +33,7 @@ section {
   border: 1px solid black;
   background-color: #A9A9A9;
   width: 100%;
-  height: 200px;
+  height: 255px;
   position: relative;
   overflow: auto;
 }
